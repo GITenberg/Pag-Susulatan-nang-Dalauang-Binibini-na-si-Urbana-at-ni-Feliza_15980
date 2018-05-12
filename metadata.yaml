@@ -1,0 +1,28 @@
+_repo: Pag-Susulatan-nang-Dalauang-Binibini-na-si-Urbana-at-ni-Feliza_15980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castro, Modesto  de
+    alias: De Castro, Modesto
+    birthdate: 1819
+    deathdate: 1864
+    gutenberg_agent_id: '6409'
+    url: http://www.gutenberg.org/2009/agents/6409
+description: ''
+gutenberg_issued: '2005-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15980'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Women -- Philippines'
+- !lcsh 'Young women -- Conduct of life'
+title: Pag Susulatan nang Dalauang Binibini na si Urbana at ni Feliza
+url: http://www.gutenberg.org/ebooks/15980
